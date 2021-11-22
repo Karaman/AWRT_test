@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/P4DemoScene.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Sandoz_P4Demo.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
